@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "lint": "deno lint",
+    "format": "deno fmt",
+    "stack": "deno stack/demo.ts",
+    "queue": "deno queue/demo.ts"
+  }
+}

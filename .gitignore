@@ -1,0 +1,15 @@
+# Ignore Deno cache
+deno.lock
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Log files
+*.log
